@@ -15,12 +15,12 @@ import {
 // ── FIREBASE CONFIG ────────────────────────────────────────────
 // Podmień na swoje dane z Firebase Console (Project Settings → Your apps)
 const firebaseConfig = {
-  apiKey:            "TWOJ_API_KEY",
-  authDomain:        "TWOJ_PROJECT.firebaseapp.com",
-  projectId:         "TWOJ_PROJECT_ID",
-  storageBucket:     "TWOJ_PROJECT.appspot.com",
-  messagingSenderId: "TWOJ_SENDER_ID",
-  appId:             "TWOJ_APP_ID"
+  apiKey:            "AIzaSyB6d9LuTfh_eOk7RDb_ntI0EyvrZGCBvqc",
+  authDomain:        "trading-journal-d84b2.firebaseapp.com",
+  projectId:         "trading-journal-d84b2",
+  storageBucket:     "trading-journal-d84b2.firebasestorage.app",
+  messagingSenderId: "995666350828",
+  appId:             "1:995666350828:web:d936253f21e98396338bc9"
 };
 
 const app  = initializeApp(firebaseConfig);
